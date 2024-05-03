@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://idk.com/en/categories/</loc>
+  </url><url>
+    <loc>https://idk.com/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idk.com/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idk.com/en/"
+                />
+  </url><url>
+    <loc>https://idk.com/en/series/</loc>
+  </url><url>
+    <loc>https://idk.com/en/tags/</loc>
+  </url>
+</urlset>
