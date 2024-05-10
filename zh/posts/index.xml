@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 广东高州中学电脑协会官方网站</title>
+    <title>文章 on 广东高州中学电脑协会</title>
     <link>https://ggcso.github.io/zh/posts/</link>
-    <description>Recent content in Posts on 广东高州中学电脑协会官方网站</description>
-    <generator>Hugo -- 0.125.5</generator>
-    <language>zh</language>
-    <copyright>广东高州中学电脑协会</copyright>
+    <description>Recent content in 文章 on 广东高州中学电脑协会</description>
+    <image>
+      <title>广东高州中学电脑协会</title>
+      <url>https://ggcso.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ggcso.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>zh-cn</language>
     <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ggcso.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>测试</title>
-      <link>https://ggcso.github.io/zh/posts/test/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ggcso.github.io/zh/posts/test/</guid>
-      <description>测试文章</description>
-    </item>
     <item>
       <title>作者的一些想法</title>
       <link>https://ggcso.github.io/zh/posts/%E6%84%9F%E6%83%B3/</link>
@@ -24,7 +21,7 @@
       <description>吃灰文章系列</description>
     </item>
     <item>
-      <title>Markdown Syntax Guide For L2</title>
+      <title>Markdown Syntax Guide</title>
       <link>https://ggcso.github.io/zh/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://ggcso.github.io/zh/posts/markdown-syntax/</guid>
@@ -36,6 +33,20 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://ggcso.github.io/zh/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>https://ggcso.github.io/zh/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ggcso.github.io/zh/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://ggcso.github.io/zh/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ggcso.github.io/zh/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
     </item>
     <item>
       <title>Emoji Support</title>
