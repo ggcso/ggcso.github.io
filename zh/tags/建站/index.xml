@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>建站 on 广东高州中学电脑协会</title>
+    <link>https://ggcso.github.io/zh/tags/%E5%BB%BA%E7%AB%99/</link>
+    <description>Recent content in 建站 on 广东高州中学电脑协会</description>
+    <image>
+      <title>广东高州中学电脑协会</title>
+      <url>https://ggcso.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ggcso.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 May 2024 09:51:43 +0800</lastBuildDate>
+    <atom:link href="https://ggcso.github.io/zh/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>项目作者的一些想法</title>
+      <link>https://ggcso.github.io/zh/posts/thought-of-init-author/</link>
+      <pubDate>Sat, 11 May 2024 09:51:43 +0800</pubDate>
+      <guid>https://ggcso.github.io/zh/posts/thought-of-init-author/</guid>
+      <description>关于广东高州中学电脑协会网站的诞生</description>
+    </item>
+  </channel>
+</rss>

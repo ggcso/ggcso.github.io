@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 09:51:43 +0800</lastBuildDate>
     <atom:link href="https://ggcso.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install / Update PaperMod</title>
@@ -19,13 +19,6 @@
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ggcso.github.io/zh/posts/papermod/papermod-installation/</guid>
       <description>Read aboout Install and Update instructions and sampled configuration templates</description>
-    </item>
-    <item>
-      <title>作者的一些想法</title>
-      <link>https://ggcso.github.io/zh/posts/%E6%84%9F%E6%83%B3/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ggcso.github.io/zh/posts/%E6%84%9F%E6%83%B3/</guid>
-      <description>吃灰文章系列</description>
     </item>
     <item>
       <title>Features / Mods</title>
@@ -54,6 +47,13 @@
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ggcso.github.io/zh/posts/papermod/papermod-variables/</guid>
       <description>List of Front Matter variables used by PaperMod</description>
+    </item>
+    <item>
+      <title>项目作者的一些想法</title>
+      <link>https://ggcso.github.io/zh/posts/thought-of-init-author/</link>
+      <pubDate>Sat, 11 May 2024 09:51:43 +0800</pubDate>
+      <guid>https://ggcso.github.io/zh/posts/thought-of-init-author/</guid>
+      <description>关于广东高州中学电脑协会网站的诞生</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
